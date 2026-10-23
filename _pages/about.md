@@ -13,8 +13,8 @@ My research focuses on **GUI agents**, particularly how they perceive and unders
 
 <h1 id="news">🔥 News</h1>
 
-- **2026.07**: *Faithful Mobile GUI Agents with Guided Advantage Estimator* — [ICML 2026](https://icml.cc/Conferences/2026).
-- **2025.11**: *Hidden Ghost Hand* appeared in Findings of [EMNLP 2025](https://2025.emnlp.org/).
+- **2026.07**: 🎉 [Faithful Mobile GUI Agents](https://arxiv.org/abs/2605.01208) is accepted at [ICML 2026](https://icml.cc/Conferences/2026)!
+- **2025.11**: 🎉 [AgentGhost](https://aclanthology.org/2025.findings-emnlp.411/) is accepted at [EMNLP 2025](https://2025.emnlp.org/) (Findings)!
 
 <h1 id="publications">📝 Selected Publications</h1>
 
