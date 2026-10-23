@@ -32,7 +32,7 @@ A two-stage training framework for evidence-grounded GUI actions. Guided Advanta
 
 Pengzhou Cheng<sup>*</sup>, **Haowen Hu**<sup>*</sup>, Zheng Wu, Zongru Wu, Tianjie Ju, Daizong Ding, Zhuosheng Zhang, Gongshen Liu
 
-**Findings of EMNLP 2025** · [Paper](https://aclanthology.org/2025.findings-emnlp.411/) · [PDF](https://aclanthology.org/2025.findings-emnlp.411.pdf) · [arXiv](https://arxiv.org/abs/2505.14418)
+**Findings of EMNLP 2025** · [Paper](https://aclanthology.org/2025.findings-emnlp.411/) · [PDF](https://aclanthology.org/2025.findings-emnlp.411.pdf) · [arXiv](https://arxiv.org/abs/2505.14418) · [Code](https://github.com/CTZhou-byte/AgentGhost)
 
 AgentGhost studies trajectory-level backdoor vulnerabilities in mobile GUI agents, using interaction history, interface state, and task progress to understand hidden triggers and evaluate agent security.
 
