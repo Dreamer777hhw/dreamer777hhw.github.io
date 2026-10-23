@@ -25,7 +25,7 @@ My research focuses on **GUI agents** that interact with digital environments re
 
 ### Faithful Mobile GUI Agents with Guided Advantage Estimator
 
-**Haowen Hu***, Pengzhou Cheng*, Zheng Wu, Lingzhong Dong, Gongshen Liu, Zhuosheng Zhang
+**Haowen Hu**<sup>*</sup>, Pengzhou Cheng<sup>*</sup>, Zheng Wu, Lingzhong Dong, Gongshen Liu, Zhuosheng Zhang
 
 **ICML 2026** · [Code](https://github.com/Dreamer777hhw/Faithful-Agent)
 
@@ -33,7 +33,7 @@ A two-stage training framework for evidence-grounded GUI actions. Guided Advanta
 
 ### [Hidden Ghost Hand: Unveiling Backdoor Vulnerabilities in MLLM-Powered Mobile GUI Agents](https://aclanthology.org/2025.findings-emnlp.411/)
 
-Pengzhou Cheng*, **Haowen Hu***, Zheng Wu, Zongru Wu, Tianjie Ju, Daizong Ding, Zhuosheng Zhang, Gongshen Liu
+Pengzhou Cheng<sup>*</sup>, **Haowen Hu**<sup>*</sup>, Zheng Wu, Zongru Wu, Tianjie Ju, Daizong Ding, Zhuosheng Zhang, Gongshen Liu
 
 **Findings of EMNLP 2025** · [Paper](https://aclanthology.org/2025.findings-emnlp.411/) · [PDF](https://aclanthology.org/2025.findings-emnlp.411.pdf) · [arXiv](https://arxiv.org/abs/2505.14418)
 
