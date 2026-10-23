@@ -20,11 +20,11 @@ My research focuses on **GUI agents**, particularly how they perceive and unders
 
 <p class="section-note">* Equal contribution.</p>
 
-### Faithful Mobile GUI Agents with Guided Advantage Estimator
+### [Faithful Mobile GUI Agents with Guided Advantage Estimator](https://arxiv.org/abs/2605.01208)
 
 **Haowen Hu**<sup>*</sup>, Pengzhou Cheng<sup>*</sup>, Zheng Wu, Lingzhong Dong, Gongshen Liu, Zhuosheng Zhang
 
-**ICML 2026** · [Code](https://github.com/Dreamer777hhw/Faithful-Agent)
+**ICML 2026** · [arXiv](https://arxiv.org/abs/2605.01208) · [PDF](https://arxiv.org/pdf/2605.01208) · [Code](https://github.com/Dreamer777hhw/Faithful-Agent)
 
 A two-stage training framework for evidence-grounded GUI actions. Guided Advantage Estimator (GuAE) addresses advantage collapse under sparse rewards, while a thought–action consistency reward improves faithful decision-making.
 
