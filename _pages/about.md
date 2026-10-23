@@ -46,5 +46,3 @@ AgentGhost studies trajectory-level backdoor vulnerabilities in mobile GUI agent
 
 - **Shanghai Jiao Tong University** — M.S. in Cyberspace Security, September 2026–March 2029 (expected). Advisor: Prof. Zhuosheng Zhang.
 - **Shanghai Jiao Tong University** — B.Eng. in Information Security, August 2022–July 2026. Major rank: **6/87**.
-
-<footer class="homepage-footer">Built with <a href="https://github.com/RayeRen/acad-homepage.github.io">AcadHomepage</a>.</footer>
