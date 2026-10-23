@@ -1,23 +1,21 @@
 ---
 permalink: /
 title: ""
-excerpt: "Haowen Hu's research on reliable, personalized, and secure GUI agents."
+excerpt: "Haowen Hu's research on perception, understanding, and decision-making in GUI agents."
 author_profile: true
 ---
 
 <span class="anchor" id="about-me"></span>
 
-I am a first-year master's student in **Cyberspace Security** at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by **Prof. Zhuosheng Zhang**. I received my bachelor's degree in Information Security from Shanghai Jiao Tong University in 2026.
+I am a first-year master's student in **Cyberspace Security** at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by **Prof. Zhuosheng Zhang**.
 
-My research focuses on **GUI agents** that interact with digital environments reliably and adapt to users. I work on multimodal supervised fine-tuning and reinforcement learning, with particular interests in **faithful decision-making, personalization and evolving memory, continuous interaction, and agent security**.
-
-<p class="contact-line"><a href="mailto:dreamer777@sjtu.edu.cn">Email</a> · <a href="https://github.com/Dreamer777hhw">GitHub</a></p>
+My research focuses on **GUI agents**, particularly how they perceive and understand interfaces and make decisions. I am interested in bringing perception, spatial reasoning, long-horizon action, feedback-driven correction, and learning together within a model. Recently, I have been working on **data generation and verifiable environments** for GUI agents.
 
 <h1 id="news">🔥 News</h1>
 
 - **2026.09**: Started my master's studies at Shanghai Jiao Tong University.
-- **2026**: *Faithful Mobile GUI Agents with Guided Advantage Estimator* — ICML 2026.
-- **2025**: *Hidden Ghost Hand* appeared in Findings of EMNLP 2025.
+- **2026.07**: *Faithful Mobile GUI Agents with Guided Advantage Estimator* — [ICML 2026](https://icml.cc/Conferences/2026).
+- **2025.11**: *Hidden Ghost Hand* appeared in Findings of [EMNLP 2025](https://2025.emnlp.org/).
 
 <h1 id="publications">📝 Selected Publications</h1>
 
@@ -38,20 +36,6 @@ Pengzhou Cheng<sup>*</sup>, **Haowen Hu**<sup>*</sup>, Zheng Wu, Zongru Wu, Tian
 **Findings of EMNLP 2025** · [Paper](https://aclanthology.org/2025.findings-emnlp.411/) · [PDF](https://aclanthology.org/2025.findings-emnlp.411.pdf) · [arXiv](https://arxiv.org/abs/2505.14418)
 
 AgentGhost studies trajectory-level backdoor vulnerabilities in mobile GUI agents, using interaction history, interface state, and task progress to understand hidden triggers and evaluate agent security.
-
-<h1 id="research">🔬 Research Projects</h1>
-
-### Proteus: Personalized GUI Agents with Evolving Memory
-
-<p class="section-note">March–August 2026 · First-author research</p>
-
-A shared personalization instructor learns when and how to guide a frozen GUI executor. Supervised fine-tuning and contrastive reward shaping teach intervention decisions, while external memory evolves from failed interactions to adapt to changing user preferences without model updates.
-
-### Continuous Interaction Benchmark
-
-<p class="section-note">August 2026–Present</p>
-
-Evaluating GUI agents in dynamic, ongoing interactions: when to ask, inform, or confirm; how to respond to user interventions; and how to manage task switches, modifications, and termination. The evaluation spans WebArena, AndroidWorld, and OSWorld.
 
 <h1 id="honors">🎖 Honors and Awards</h1>
 

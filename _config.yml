@@ -7,7 +7,7 @@
 
 # Site Settings
 title: "Haowen Hu"
-description: "Master's student · GUI Agents & Reinforcement Learning"
+description: "First-year master's student · GUI Agents"
 repository: "Dreamer777hhw/dreamer777hhw.github.io"
 google_scholar_stats_use_cdn: false
 
@@ -27,6 +27,7 @@ author:
   location: "Shanghai, China"
   email: "dreamer777@sjtu.edu.cn"
   github: "Dreamer777hhw"
+  dblp: "https://dblp.org/pid/225/8888.html"
 
 
 # Reading Files
